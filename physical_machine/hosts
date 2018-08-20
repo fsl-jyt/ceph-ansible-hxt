@@ -1,12 +1,8 @@
 [ceph_monitor_servers]
-ceph-rep-01
-ceph-rep-02
-ceph-rep-03
+jyt-sdp1
 
 [ceph_osd_servers]
-ceph-rep-01
-ceph-rep-02
-ceph-rep-03
+jyt-sdp1
 
 [ceph_radosgw_servers]
-ceph-rep-01
+jyt-sdp1
